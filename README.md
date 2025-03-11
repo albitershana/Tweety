@@ -4,7 +4,7 @@ Built with React, Django, PostgreSQL, and JWT Authentication
 **About the Project**
 Tweety is a full-stack social media application that allows users to:
 Sign up, log in, and manage profiles (bio, avatar, friend requests).
-Create, edit, delete, like, and comment on posts.
+Create, edit, delete, like, and comment on posts. 
 Send private messages (DMs) to other users.
 React to posts with multiple reactions (❤️ 😂 😮 😢 😡).
 Use hashtags (#tags) and mentions (@username) to organize content.
